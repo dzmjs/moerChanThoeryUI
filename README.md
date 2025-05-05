@@ -1,6 +1,6 @@
 # moerChanThoeryUI
 This project is a K_line Tools about Chan Thoery of MOER. 
-![](I:\PCG_Project\moerChanThoeryUI\images\moer_1d.png)
+![](./images/moer_1d.png)
 
 ## About Project
  Four years ago, it was my first time to learn a Stock Thoery named ChanLun. My teacher is Moer(摩尔).
