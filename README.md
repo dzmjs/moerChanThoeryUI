@@ -16,3 +16,4 @@ This project is a K_line Tools about Chan Thoery of MOER.
  
 ## Next Step
  I want to find out Third Buy/Sell Point, and draw on the k-chart.
+ ![](./images/ThirdBuyOrSellQueryResult.png)

@@ -18,3 +18,4 @@
  - Web Page: HTML + Jquery 3.6.0
 ## 重要的事!
  [找到不变的事，才是基石。](https://www.cnblogs.com/dzmsjs/articles/18786042)
+ ![](./images/ThirdBuyOrSellQueryResult.png)
