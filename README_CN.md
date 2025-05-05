@@ -1,5 +1,6 @@
 # moerChanThoeryUI
  这是一个关于使用摩尔缠论进行k线分析与划线的项目。
+ ![](I:\PCG_Project\moerChanThoeryUI\images\moer_1d.png)
 
 ## 关于本项目
  四年前开始学习缠论，偶然间得到了摩尔缠论的资料，便开始学习。反反复复，断断续续，不断折腾，摸索，感悟。
